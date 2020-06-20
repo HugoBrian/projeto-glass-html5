@@ -60,9 +60,9 @@ header#cabecalho h2{
  }
 
  header#cabecalho img#icone{
-	position: absolute;
-	left: 900px;
-	top: 70px;
+	position: relative;
+	left: 730px;
+	top: -40px;
  }
 
  figure.foto-legenda{
